@@ -9,7 +9,7 @@
 Python has become one of the most widely used analytical platforms in data science. This course introduces python coding skills and numerical methods for processing, analyzing, and visualizing datasets in Earth science, based on web-based and command-line interfaces. No prior programming experience is assumed. After taking the class, students will be able to write Python codes to analyze data and solve problems numerically.
 
 ## Assignment Summary
-# Assignment 1
+### Assignment 1
 - Introduction to Jupyter Notebooks
 - Using Markdown for fonts, equations, etc.
 
